@@ -1,0 +1,18 @@
+.container{
+  width: 100vw;
+  height: 100vh;
+  
+  
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  align-items: center;
+  justify-items: center;
+}
+.warnZero{
+  width: 100vw;
+  height: 100vh;
+  
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
